@@ -175,13 +175,13 @@ function theBeginning()
 function congrats()
 {
 	//Changes the current state
-	currentState = 2;
+	currentState = 0;
 }
 
 function theEnd()
 {
 	//Changes the current state
-	currentState = 4;
+	currentState = 2;
 }
 
 
