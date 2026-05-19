@@ -169,13 +169,13 @@ states[6] = function()
 function theBeginning()
 {
 	//Changes the current state
-	currentState = 4;
+	currentState = 6;
 }
 
 function congrats()
 {
 	//Changes the current state
-	currentState = 0;
+	currentState = 4;
 }
 
 function theEnd()
